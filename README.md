@@ -1,0 +1,1 @@
+This is biolerplate website for OdinProject.
