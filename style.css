@@ -1,0 +1,10 @@
+h1{
+    background-color: rgb(164, 118, 48);
+    font-weight: bold;
+}
+body{
+    background-color: beige;
+}
+#recipeList{
+    background-color: azure;
+}

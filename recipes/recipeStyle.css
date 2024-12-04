@@ -1,0 +1,13 @@
+#image{
+    outline: auto;
+    outline-color: blue;
+}
+.bottom-text{
+    font-weight: bold;
+}
+.ingredients{
+    background-color: aqua;
+}
+.instructions{
+    background-color: lightblue;
+}
